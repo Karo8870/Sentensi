@@ -4,13 +4,13 @@
 
 ---
 
-## Home
+## Home (https://www.sentensi.com)
 
 The **Home page** contains a list of all the lessons made. You can create a new lesson by clicking on the create new lesson button or play an activity by clicking on the play button on one of the activities
 
 <img width="1736" alt="image" src="https://github.com/user-attachments/assets/c538570b-024c-4733-a5e1-8988bad2be84" />
 
-## Canvas
+## Canvas (https://www.sentensi.com/create)
 
 ![image](https://github.com/user-attachments/assets/9439b1a3-55f3-4da8-8adc-e4c06dbb1596)
 
